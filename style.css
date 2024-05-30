@@ -1,0 +1,1077 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.main {
+
+    background-color: #8948E0;
+    padding: 0 50px;
+}
+
+.header {
+
+
+    background-color: #8948E0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+.list {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+
+}
+
+.button {
+
+    text-decoration: none;
+    padding: 10px 20px;
+
+    color: white;
+    background-color: #F74780;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.button1 {
+    text-decoration: none;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.left {
+    width: 50%;
+}
+
+.right {
+    width: 50%;
+}
+
+.Images {
+    width: 90%;
+
+}
+
+.Heading {
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+}
+
+.paragraph {
+    font-size: 22px;
+    color: white;
+    margin: 20px 0;
+}
+
+.Start {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 30px 0;
+    color: white;
+    background-color: #F74780;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+.credit {
+    color: white;
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+
+
+.headind2 {
+    font-size: 60px;
+    align-items: center;
+    padding: 50px 200px;
+    text-align: center;
+
+}
+
+.Paragraph2 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.main2 {
+    display: flex;
+    padding: 0 50px;
+    margin: 10% 0;
+}
+
+.section2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px 30px;
+}
+
+.section2 img {
+    width: 90px;
+
+}
+
+.section2 h1 {
+    font-size: 60px;
+
+
+}
+
+.section2 p {
+    text-align: center;
+    font-size: 18px;
+    color: dimgrey;
+
+}
+
+.Hero2 {
+    display: flex;
+    align-items: center;
+    padding: 0 100px;
+    margin: 10% 0;
+}
+
+.left2 {
+    width: 50%;
+}
+
+.right2 {
+    width: 50%;
+}
+
+.Image10 {
+    width: 90%;
+}
+
+.ENHANCE {
+    font-weight: bold;
+}
+
+.valuable {
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 60px;
+}
+
+.sodales {
+    font-size: 18px;
+    color: dimgray;
+
+    padding: 10px 0;
+}
+
+.Digits {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+.sapien {
+    font-size: 18px;
+    padding: 10px 0;
+    color: dimgray;
+
+}
+
+.sapien li {
+    margin: 10px 0;
+}
+
+.Hero3 {
+    display: flex;
+    align-items: center;
+    padding: 0px 100px;
+    margin: 10% 0;
+}
+
+.left3 {
+    width: 50%;
+}
+
+.right3 {
+    width: 50%;
+}
+
+.Solution {
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 30px;
+}
+
+.Sodales2 {
+    font-size: 18px;
+    color: dimgray;
+
+    padding: 10px 0;
+}
+
+.Connect {
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 30px;
+}
+
+.Tempor {
+    font-size: 18px;
+    padding: 10px 0;
+    color: dimgray;
+}
+
+.Temporsapien li {
+    margin: 10px 0;
+    font-size: 18px;
+    color: dimgray;
+}
+
+.Image6 {
+    width: 90%;
+}
+
+.Heading4 {
+    font-size: 40px;
+    align-items: center;
+    padding: 40px 200px;
+    text-align: center;
+
+}
+
+.Ligula {
+    font-size: 22px;
+    text-align: center;
+    padding: 20px 0;
+    color: dimgray;
+}
+
+.maindevided2 {
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.mainpart1 {
+    background-color: #F4F4F9;
+    width: 40%;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+
+.mainpart2 {
+
+    background-color: #F4F4F9;
+    width: 40%;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+
+.img {
+
+    width: 100%;
+}
+
+.Marketing {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.Aliquam {
+    color: dimgray;
+    font-size: 18px;
+}
+
+.divheading {
+    align-items: center;
+    padding: 0px 100px;
+
+    display: flex;
+
+
+}
+
+.divs2 {
+    display: flex;
+    padding: 120px 0;
+    gap: 40px;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.eighty89k {
+    font-size: 60px;
+}
+
+.Porta {
+    font-size: 20px;
+    color: dimgray;
+    padding: 0 10px;
+}
+
+.centraldiv {
+    display: flex;
+    align-items: center;
+    padding: 0 100px;
+    margin: 10% 0;
+}
+
+.left5 {
+    width: 50%;
+}
+
+.right5 {
+    width: 50%;
+}
+
+.image03 {
+    width: 80%;
+}
+
+.thesmarter {
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 30px;
+}
+
+.thesmarter1 {
+    font-size: 18px;
+    color: dimgray;
+
+    padding: 10px 0;
+    line-height: 30px;
+
+}
+
+.Cursus {
+    margin: 10px 0;
+    font-size: 18px;
+    color: dimgray;
+    line-height: 30px;
+}
+
+.possible {
+    text-decoration: none;
+    border: 2px solid #F74780;
+    list-style: none;
+    padding: 10px 16px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    color: #F74780;
+    transition: all 0.8s ease;
+
+}
+
+.possible:hover {
+    background: #F74780;
+    color: white;
+}
+
+.Section5 {
+    display: flex;
+    align-items: center;
+    padding: 0px 100px;
+}
+
+.left8 {
+    width: 50%;
+}
+
+.right8 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+
+
+
+}
+
+.Display {
+    display: flex;
+    width: 50%;
+    background-color: dimgrey;
+
+}
+
+.parent {
+    height: 280px;
+    margin: 10px;
+    padding: 30px;
+    background-color: #F4F4F9;
+    border-radius: 10px;
+
+}
+
+.parent img {
+    mix-blend-mode: darken;
+    width: 80px;
+    padding: 10px 0;
+}
+
+.Smart {
+    font-size: 60px;
+}
+
+.smart2 {
+    font-size: 18px;
+    color: dimgray;
+
+    padding: 10px 0;
+    line-height: 30px;
+
+    .parent sempar {
+        font-size: 22px;
+        color: dimgray;
+
+        padding: 10px 0;
+
+
+    }
+}
+
+.Mangna li {
+    margin: 10px 0;
+    font-size: 18px;
+    color: dimgray;
+    line-height: 30px;
+
+}
+
+.image23 {
+    width: 90%;
+}
+
+.DISPLAY9 {
+    display: flex;
+    align-items: center;
+    padding: 100px 100px;
+}
+
+
+.left9 {
+    width: 50%;
+}
+
+.right9 {
+    width: 50%;
+
+}
+
+.Plug {
+    font-size: 60px;
+}
+
+.easy {
+    font-size: 18px;
+    color: dimgray;
+    padding: 25px 0;
+}
+
+.Curusos li {
+    font-size: 18px;
+    color: dimgray;
+
+    padding: 10px 0;
+    line-height: 30px;
+
+}
+
+.Dispaly10 {
+    background-color: rgb(217, 240, 248);
+}
+
+.Track {
+    font-size: 70px;
+    margin-top: 30px;
+    padding: 70px 100px;
+
+    text-align: center;
+}
+
+.display10 h4 {
+    padding: 30px;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 18px;
+
+
+}
+
+
+.dashboard01 {
+    margin-bottom: -100px;
+    padding: 0 70px;
+    width: 100%;
+
+}
+
+.Martex h2 {
+    padding: 200px;
+    text-align: center;
+
+
+    font-size: 22px;
+}
+
+.martex1 {
+    padding: 0px 100px;
+}
+
+.goru {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    overflow-x: scroll;
+}
+
+.goru div img {
+    width: 150px;
+}
+
+.DISPLAY11 {
+    padding: 100px 100px;
+
+}
+
+.Complete {
+    margin-top: 50px;
+    font-size: 70px;
+    margin-top: 30px;
+    padding: 20px 100px;
+
+    text-align: center;
+}
+
+/* /* .Risus h2 {
+    padding: 10px 30px;
+        text-align: center;
+        color: dimgray;
+ 
+        font-size: 24px; */
+
+
+
+.Auctor {
+
+
+    padding: 50px 20px;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 24px;
+
+
+}
+
+.Display13 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Gold .imagef01 {
+    width: 90%;
+    height: 70%;
+}
+
+.Gold h1 {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.Gold .egestas {
+
+    padding: 10px 20px;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 18px;
+}
+
+.Section14 {
+    display: flex;
+    align-items: center;
+    padding: 0 100px;
+    margin: 10% 0;
+
+
+
+}
+
+.left14 {
+    width: 50%;
+    padding-right: 40px;
+}
+
+.right14 {
+    width: 50%;
+}
+
+.image13 {
+    width: 90%;
+
+}
+
+.left14 .PRODUCTIVITY {
+    font-weight: bold;
+    color: dimgray;
+}
+
+.left14 .Achieve {
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 60px;
+
+}
+
+.sodales14 {
+    color: dimgray;
+
+    padding: 10px 0;
+    line-height: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: dimgrey;
+}
+
+.mangnadollar li {
+    font-size: 20px;
+    color: dimgray;
+
+    padding: 10px 0;
+    line-height: 30px;
+    justify-content: space-between;
+
+
+}
+
+.Dispaly15 {
+    padding: 0 100px;
+    /* background-color: rgb(217, 240, 248); */
+}
+
+.Discover {
+    font-size: 70px;
+    margin-top: 30px;
+    padding: 50px 100px;
+
+    text-align: center;
+}
+
+.display15 h4 {
+    padding: 10px;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 18px;
+
+
+}
+
+
+.imagepng19 {
+    /* margin-bottom: -100px; */
+    padding: 0 70px;
+    width: 100%;
+}
+
+.Monitor {
+    border-radius: 10px;
+    align-self: center;
+    text-decoration: none;
+    border: 2px solid black;
+    list-style: none;
+    padding: 12px 22px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    transition: all 0.8s ease;
+
+}
+
+.Monitor:hover {
+    background: #F74780;
+    color: white;
+}
+
+.Monitor15 {
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.free {
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.Display16 {
+    padding: 50px 100px;
+    display: flex;
+
+}
+
+
+
+.right16 {
+
+    width: 50%;
+}
+
+.image20 {
+
+    width: 80%;
+    padding-left: 30px;
+}
+
+.Register {
+    padding: 20px 0;
+    font-size: 30px;
+
+}
+
+.righth1 {
+
+    font-size: 30px;
+
+}
+
+.Register2 {
+    padding-top: 20px;
+    /* text-align: center; */
+    color: dimgray;
+    line-height: 30px;
+    font-size: 18px;
+
+}
+
+.Parent16 {
+    display: flex;
+}
+
+.righth1 {
+    background-color: #F74780;
+    border: 2px solid #F74780;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.righth1:hover {
+
+    color: #F74780;
+    background: white;
+    transition: all 0.8s ease;
+}
+
+.Dispaly17 {
+    padding: 100px;
+    background-color: #F6F6FA;
+}
+
+.Here’s {
+    font-size: 70px;
+    margin-top: 30px;
+    padding: 0 100px 50px 100px;
+
+    text-align: center;
+}
+
+.dispaly17 h4 {
+    padding: 10px;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 24px;
+}
+
+.Parent17 {
+    display: flex;
+}
+
+
+
+.testimonial {
+    gap: 20px;
+    display: flex;
+}
+
+.Mainparents {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.212);
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+    background-color: #edebf0;
+}
+
+.Mainparents svg {
+    width: 50px;
+}
+
+.youngperson {
+    width: 70px;
+    border-radius: 50%;
+
+}
+
+.secondparent {
+    align-items: center;
+    padding-top: 20px;
+    display: flex;
+}
+
+.lislieD {
+    font-size: 22px;
+    padding: 0 10px;
+}
+
+.Mauris {
+    font-size: 24px;
+    color: dimgrey;
+}
+
+.display18 {
+    border-radius: 20px;
+    margin: 50px 100px;
+    padding: 10px 50px;
+    background-color: #e1dfe9;
+}
+
+.Automate {
+    font-size: 70px;
+    margin-top: 30px;
+    padding: 50px 100px;
+
+    text-align: center;
+
+}
+
+.ligularisas18 {
+    padding: 10px;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 18px;
+
+}
+
+.Automateworkflow {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.heightimage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+}
+
+.Groupimage18 {
+    align-items: center;
+    width: 150px;
+
+
+}
+
+.Zapier {
+    text-align: center;
+}
+
+.Button18 {
+    border-radius: 10px;
+    align-self: center;
+    text-decoration: none;
+    border: 2px solid black;
+    list-style: none;
+    padding: 12px 22px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    transition: all 0.8s ease;
+
+}
+
+.Button18:hover {
+    background: #F74780;
+    color: white;
+}
+
+.Buttoneighteen {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.ourclients {
+    padding: 100px 0;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 18px;
+
+
+}
+
+.imagesthree {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+
+
+}
+
+
+.capterr {
+    height: 42px;
+    width: 150px;
+}
+
+.groupstars {
+    margin-top: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.24);
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Starfill {
+    height: 20px;
+    width: 20px;
+
+}
+
+.Starfillhalf {
+    height: 20px;
+    width: 20px;
+
+}
+
+.Starfillline {
+    height: 20px;
+    width: 20px;
+}
+.Questionsection{
+    padding: 10px 100px;
+}
+
+.Questions {
+    font-size: 70px;
+    margin-top: 20px;
+    padding: 0 100px;
+
+    text-align: center;
+
+}
+
+.Answers {
+    padding: 50px;
+    text-align: center;
+    color: dimgray;
+
+    font-size: 22px;
+}
+
+.leftDetails {
+    width: 50%;
+}
+
+.rightDetails {
+    width: 50%;
+}
+
+.Double {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 30px;
+}
+.Getting{
+    padding: 5px 0;
+    font-size: 30px;
+}
+.Etiampara{
+    padding: 5px 0;
+    color: dimgrey;
+    font-size: 18px;
+    line-height: 30px;
+}
+.boxdesign{
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.doublebox{
+    margin: 30px 0;
+    background-color: #F4F4F9;
+    padding: 20px 30px;
+    border-radius: 50px;
+    display: flex;
+
+}
+.TOUCH{
+    text-decoration: none;
+    color: #F74780;
+}
+.pageend{
+    padding: 100px 0;
+}
+
+.fulldisplay{
+    padding: 10px 0;
+    justify-content: center;
+   
+    display: flex; 
+    gap: 0 100px; 
+}
+.Head2{
+    padding: 20px 0;
+}
+.Email{
+text-align: right;
+    padding: 20px 70px;
+    text-decoration: none;
+    background-color: #F4F4F9;
+    
+}
+.TotalDesign{
+    padding: 5px 0;
+    color: dimgrey;
+    font-size: 18px;
+}
